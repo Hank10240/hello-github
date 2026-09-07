@@ -2,7 +2,7 @@
 
 這是我的第一個 GitHub 專案。
 
-我正在用 VS Code 學習 Git。。
+我正在用 VS Code 學 Git。。
 
 今天我完成了第一次 GitHub Push。
 

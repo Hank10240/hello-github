@@ -12,3 +12,5 @@ Local AAA change。
 這一行只存在 test-branch。
 
 這一行是透過 Pull Request 加進來的。
+
+這是我第二次練習 Pull Request。

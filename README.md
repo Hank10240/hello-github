@@ -18,5 +18,3 @@ Local AAA change。
 這是 update-readme-practice 分支的新修改。
 
 這是我第三次練習 Pull Request。
-
-這是一個已經 Push 後才發現錯誤的修改。
